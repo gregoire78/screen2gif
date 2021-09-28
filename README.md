@@ -1,6 +1,6 @@
 # screen2gif
 Screen recorder
 
-## Sart debug
+## Start debug
 
 `yarn && yarn start`
